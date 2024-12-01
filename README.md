@@ -26,10 +26,12 @@ Follow these steps to get your project up and running:
 2. Open the index.html file in your browser.
 3. Enjoy! 🎊
 
-📅 Future Improvements
+## 📅 Future Improvements
+
 This single page can later be used in a full recipe collection page as a component which I have in mind 💡
 Add you own idea as well 🌱
 
-📫 Contact
+## 📫 Contact
+
 Feel free to reach out if you have any questions or feedback! 
 Happy Coding! 🤗
