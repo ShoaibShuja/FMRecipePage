@@ -22,12 +22,9 @@ Follow these steps to get your project up and running:
 
 1. **Clone the repository**
    ```bash
-   git clone [your-repo-link]
+   git clone https://github.com/ShoaibShuja/FMRecipePage/tree/main
 2. Open the index.html file in your browser.
 3. Enjoy! 🎊
-
-💼 Credits
-Thanks to [Resource/Library Name] for their amazing contributions!
 
 📅 Future Improvements
 This single page can later be used in a full recipe collection page as a component which I have in mind 💡
